@@ -7,6 +7,10 @@ Assignment A4 - Web Component Framework
 
 The To-Do List Manager is a full-stack web application that allows users to create, update, and delete their tasks efficiently. It supports user authentication (local and GitHub OAuth) and sorting by due date, creation date, and description. Users can only view and manage their own tasks, ensuring personalized task management.
 
+Test Credentials:
+- Email: test@exmaple.com
+- Password: test
+
 ### Changes from A3 to A4
 1. Enhanced Authentication & Security:
 - More robust session management with `connect-mongo` for session persistence.
